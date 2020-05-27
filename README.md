@@ -1,1 +1,2 @@
-# Bouncy_Ball
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
